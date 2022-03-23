@@ -1,0 +1,236 @@
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.exe
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.deps.json
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.runtimeconfig.json
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\ref\Examination System.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.pdb
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\source\repos\Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dell\source\repos\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Form1.resources
+C:\Users\dell\source\repos\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.AssemblyInfo.cs
+C:\Users\dell\source\repos\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.CopyComplete
+C:\Users\dell\source\repos\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.dll
+C:\Users\dell\source\repos\Examination System\Examination System\obj\Debug\net6.0-windows\ref\Examination System.dll
+C:\Users\dell\source\repos\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.pdb
+C:\Users\dell\source\repos\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.genruntimeconfig.cache
+C:\Users\dell\source\repos\Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Form2.resources
+C:\Users\dell\source\repos\Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Form3.resources
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.exe
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.deps.json
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.runtimeconfig.json
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\ref\Examination System.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.pdb
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Examination System\Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.AssemblyReference.cache
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.GenerateResource.cache
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.AssemblyInfoInputs.cache
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.AssemblyInfo.cs
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.CoreCompileInputs.cache
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.CopyComplete
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.dll
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\ref\Examination System.dll
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.pdb
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.genruntimeconfig.cache
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Exam.resources
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Result.resources
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.ChooseExam.resources
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.GenerateExam.resources
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Home.resources
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Instructor_Home.resources
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Instructor_login.resources
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.ExamViewInstructor.resources
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Student_Login.resources
+D:\Downloads\Examination System\Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Student_Home.resources
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Examination System.exe
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Examination System.deps.json
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Examination System.runtimeconfig.json
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Examination System.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\ref\Examination System.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Examination System.pdb
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination_System.Exam.resources
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination_System.Home.resources
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination_System.Instructor_Home.resources
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination_System.Instructor_login.resources
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination_System.Result.resources
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination_System.Student_Home.resources
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination_System.Student_Login.resources
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination System.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination System.AssemblyInfo.cs
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.CopyComplete
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination System.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\ref\Examination System.dll
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination System.pdb
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination System.genruntimeconfig.cache
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination_System.ChoiceExam.resources
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination_System.Form2.resources
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination_System.showexam.resources
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination_System.Form1.resources
+C:\Users\dell\Downloads\New folder (2)\Examination System\obj\Debug\net6.0-windows\Examination_System.Properties.Resources.resources
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.exe
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.deps.json
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.runtimeconfig.json
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\ref\Examination System.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.pdb
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.ChoiceExam.resources
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Exam.resources
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Form1.resources
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Form2.resources
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Home.resources
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Instructor_Home.resources
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Instructor_login.resources
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Properties.Resources.resources
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Result.resources
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.showexam.resources
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.showgrade.resources
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Student_Home.resources
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Student_Login.resources
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.AssemblyInfo.cs
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.CopyComplete
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\ref\Examination System.dll
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.pdb
+C:\Users\dell\Downloads\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.genruntimeconfig.cache
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.exe
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.deps.json
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.runtimeconfig.json
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\ref\Examination System.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Examination System.pdb
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.AssemblyReference.cache
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.ChoiceExam.resources
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Exam.resources
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Form1.resources
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Form2.resources
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Home.resources
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Instructor_Home.resources
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Instructor_login.resources
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Properties.Resources.resources
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Result.resources
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.showexam.resources
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.showgrade.resources
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Student_Home.resources
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination_System.Student_Login.resources
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.GenerateResource.cache
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.AssemblyInfoInputs.cache
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.AssemblyInfo.cs
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.CoreCompileInputs.cache
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.csproj.CopyComplete
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\ref\Examination System.dll
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.pdb
+E:\ITI\DB course\Project\Desktop App\Online Examination System\Examination System\obj\Debug\net6.0-windows\Examination System.genruntimeconfig.cache
